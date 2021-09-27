@@ -1,0 +1,37 @@
+@keyframes bgcolor {
+    0% {
+        background-color: var(--rgb-color1);
+    }
+
+    30% {
+        background-color: var(--rgb-color2);
+    }
+
+    60% {
+        background-color: var(--rgb-color3);
+    }
+
+    90% {
+        background-color: var(--rgb-color4);
+    }
+
+    100% {
+        background-color: var(--rgb-color5);
+    }
+}
+
+.jbDTOK {
+    background: #0000000f !important;
+}
+
+.iQahDv, .bQaILh, .hrDUWV, .fFWwUW, .QBUaj, .ilfLJd:not([type="checkbox"]):not([type="radio"]) {
+    color: #a5a5a5 !important;
+}
+
+.duHJKB {
+    padding-top: 10rem !important;
+}
+
+.iveUAt .icon { background-color: #10529f; }
+
+.navigation-link:hover { background-color: transparent; }
