@@ -5,7 +5,7 @@ Before proceeding with installation make sure you have checked the following thi
 
 * Make sure you're running the latest version of Pterodactyl
 * Make sure you don't have any other theme installed
-* Make sure you don't use WinsCP to upload the files, use FileZilla Instead
+* It is recommended to use FileZilla
 
 Installation:
 1. upload the files inside the pterodactyl folder to /var/www/pterodactyl
